@@ -8,6 +8,8 @@ This is the first homework assignment for the Georgia Tech Full Stack Flex Progr
 
 During this assignment, we've had the opportunity to familiarize ourselves with semantic elements which set the structure for compliance with accessibility requirements. We've explored title information and meta tags to target bettter search engine results. We've also tried to consolidate repetitive code to make it as dry as possible.
 
+https://elizaregas.github.io/SEO-Class-Homework/
+
 ## Installation
 
 Clone the repository, and run the index.html file in browser.
